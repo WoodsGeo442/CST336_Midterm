@@ -44,4 +44,4 @@ Question 4:
 
 
 
-Heroku Link: https://cst336-geoffreywoods-midterm.herokuapp.com/
+Heroku Link: https://cst336-geoffreywoods-midterm.herokuapp.com/midterm_files/index.html 
